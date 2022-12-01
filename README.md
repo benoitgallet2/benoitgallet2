@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @benoitgallet2
-- 👀 I’m interested in paying taxes
-- 🌱 I’m currently learning potato peeling
-- 💞️ I’m looking to collaborate on living
+- 👀 I’m interested in money
+- 🌱 I’m currently learning how to peel potato properly
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me benoit.gallet@edu.ece.fr
 
 <!---
